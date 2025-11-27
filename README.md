@@ -14,7 +14,7 @@ Classify gamma vs hadron particles using the MAGIC telescope dataset.
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Train-Test Split
-- Models: Logistic Regression, KNN, Decision Tree, Random Forest
+- Models: Logistic Regression, KNN, Naive Bayes, SVM, Neural Net, 
 - Model Evaluation (Accuracy, Confusion Matrix)
 
 ---
@@ -28,8 +28,8 @@ Predict the number of bike rentals based on weather and seasonal features.
 ### 🔧 Techniques Used
 - Data Cleaning
 - Feature Selection / Scaling
-- Linear Regression, Ridge, Random Forest Regressor
-- Evaluation: RMSE, R² Score
+- Multiple Linear Regression, Regression with Neural Net, Neural Net,
+- valuation: RMSE, R² Score
 
 ---
 
@@ -42,7 +42,7 @@ Cluster 3 types of wheat seeds without labels.
 ### 🔧 Techniques Used
 - Data Preprocessing
 - PCA for dimensionality reduction
-- K-Means Clustering
+- Clustering, Higher Dimensions, PCA, 
 - Visualizing clusters
 
 ---
